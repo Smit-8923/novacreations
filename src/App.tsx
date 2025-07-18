@@ -235,11 +235,7 @@ function App() {
       <section id="home" className="pt-32 pb-20 bg-gradient-to-br from-slate-50 via-white to-gray-50 relative overflow-hidden">
         <div className="absolute inset-0 bg-grid-pattern opacity-5"></div>
         <div className="container mx-auto px-6 relative">
-          <div className="max-w-4xl mx-auto text-center">
-            <div className="inline-flex items-center px-4 py-2 bg-emerald-100 text-emerald-800 rounded-full text-sm font-medium mb-8">
-              <span className="w-2 h-2 bg-emerald-500 rounded-full mr-2 animate-pulse"></span>
-              Trusted by 200+ Global Companies
-            </div>
+          <div className="max-w-4xl mx-auto text-center">   
             
             <h1 className="text-5xl md:text-7xl font-bold text-slate-900 mb-8 leading-tight">
               Transform Your
@@ -541,7 +537,7 @@ function App() {
                   <h3 className="text-lg font-semibold text-slate-900 mb-1">Email Us</h3>
                   <p className="text-slate-600 mb-2">Get in touch for project inquiries and partnerships</p>
                   <a href="mailto:hello@novacreations.in" className="text-slate-900 font-medium hover:underline">
-                    hello@novacreations.in
+                    info@novacreations.in
                   </a>
                 </div>
               </div>
@@ -554,7 +550,7 @@ function App() {
                   <h3 className="text-lg font-semibold text-slate-900 mb-1">Call Us</h3>
                   <p className="text-slate-600 mb-2">Speak directly with our team</p>
                   <a href="tel:+911234567890" className="text-slate-900 font-medium hover:underline">
-                    +91 (123) 456-7890
+                    +91 9574747010
                   </a>
                 </div>
               </div>
@@ -567,8 +563,8 @@ function App() {
                   <h3 className="text-lg font-semibold text-slate-900 mb-1">Visit Us</h3>
                   <p className="text-slate-600 mb-2">Our headquarters in India</p>
                   <p className="text-slate-900 font-medium">
-                    Tech Park, Bangalore<br />
-                    Karnataka, India 560001
+                    Ahmedabad<br />
+                    Gujarat, India 560001
                   </p>
                 </div>
               </div>
